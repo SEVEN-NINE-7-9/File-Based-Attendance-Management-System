@@ -1,5 +1,5 @@
 # 📚 File-Based Attendance Management System
-**Week 7 Java Project — File Handling & Persistent Storage**
+**Java Project — File Handling & Persistent Storage**
 
 ---
 
@@ -23,8 +23,6 @@ AttendanceSystem/
 ├── data/
 │   └── attendance.txt          ← Persistent file storage (auto-created)
 ├── bin/                        ← Compiled .class files (auto-created)
-├── run.bat                     ← Windows launcher
-├── run.sh                      ← Linux/Mac launcher
 └── README.md
 ```
 
@@ -36,20 +34,6 @@ AttendanceSystem/
 - Java JDK 11 or higher installed
 - Check: `java -version` and `javac -version` in terminal
 
-### Windows
-```
-Double-click run.bat
-```
-or in Command Prompt:
-```
-run.bat
-```
-
-### Linux / Mac
-```bash
-chmod +x run.sh
-./run.sh
-```
 
 ### Manual Compilation
 ```bash
@@ -107,7 +91,7 @@ CS102|Jane Smith|Java Programming|Absent|01-01-2025 10:31
 
 ---
 
-## 📖 Learning Outcomes (Week 7)
+## 📖 Learning Outcomes
 
 ✅ File handling (read/write/append)  
 ✅ Persistent data storage  
